@@ -1,0 +1,16 @@
+{
+  "name": "h3-max-particles",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "AFTERIMAGE: H3 Max video as an interactive particle studio",
+  "license": "MIT",
+  "scripts": {
+    "dev": "python -m http.server 8770 --bind 127.0.0.1 --directory public",
+    "test": "node tests/studio.test.mjs",
+    "check:secrets": "python scripts/check_secrets.py"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
