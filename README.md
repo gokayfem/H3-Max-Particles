@@ -2,9 +2,7 @@
 
 An interactive particle studio built around H3 Max dance footage. Play the original film, turn it into square pigment and optical-flow filaments, match effects to music, and briefly scatter and reform the performer.
 
-[![Watch the release demo](examples/preview.png)](https://github.com/gokayfem/H3-Max-Particles/raw/refs/heads/main/examples/afterimage-release-7mb.mp4)
-
-**[Watch / download the release video](examples/afterimage-release-7mb.mp4)** · 15 seconds · 1080p · 24 fps · soundtrack included.
+https://github.com/user-attachments/assets/238d2f1b-29d6-45fb-b44e-ae99ead32de8
 
 [Live studio](https://afterimage-particle-studio.fal-ai-3289.chatgpt.site/close-dance/web/studio)
 
